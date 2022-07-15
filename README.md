@@ -20,6 +20,10 @@ The construction was made based on the design made available through the figma. 
   </div>
 </div>
   
+## Video
+
+https://user-images.githubusercontent.com/86618257/179316480-aff45d7b-1fbb-4d3e-8ab6-48237ec6383d.mp4
+
 ## Stack
 
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
